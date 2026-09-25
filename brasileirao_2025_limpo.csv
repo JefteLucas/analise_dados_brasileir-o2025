@@ -1,0 +1,381 @@
+data,rodada,mandante,gols_mandante,gols_visitante,visitante,resultado,saldo_gols,total_gols,mes,arena,mandante_Estado,visitante_Estado,formacao_mandante,formacao_visitante,tecnico_mandante,tecnico_visitante
+2025-03-29,1,Juventude,2,0,Vitoria,Vitória do mandante,2,2,3,"Alfredo Jaconi, Caxias do Sul",RS,BA,4-2-3-1,4-2-3-1,M. Barbieri,J. Ventura
+2025-03-29,1,Fortaleza,2,0,Fluminense,Vitória do mandante,2,2,3,"Arena Castelão, Fortaleza",CE,RJ,3-4-3,4-3-3,T. Carpini,L. Luis Zubeldia
+2025-03-29,1,Cruzeiro,2,1,Mirassol,Vitória do mandante,1,3,3,"Mineirão, Belo Horizonte",MG,SP,4-2-2-2,4-2-3-1,T. Tite,R. Guanaes
+2025-03-29,1,Gremio,2,1,Atletico-MG,Vitória do mandante,1,3,3,"Arena do Grêmio, Porto Alegre",RS,MG,4-2-3-1,4-4-2,L. Castro,J. Sampaoli
+2025-03-29,1,Sao Paulo,0,0,Sport,Empate,0,0,3,"MorumBIS, São Paulo",SP,PE,3-4-1-2,4-3-1-2,H. Crespo,C. de Lucena
+2025-03-29,1,Flamengo,1,1,Internacional,Empate,0,2,3,"Maracanã, Rio de Janeiro",RJ,RS,4-4-2,4-2-3-1,F. Luís,R. Díaz
+2025-03-30,1,Palmeiras,0,0,Botafogo-RJ,Empate,0,0,3,"Allianz Parque, São Paulo",SP,RJ,4-2-3-1,4-3-3,A. Ferreira,Renato Manuel Alves Paiva
+2025-03-30,1,Vasco,2,1,Santos,Vitória do mandante,1,3,3,"Estádio São Januário, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Diniz,J. Vojvoda
+2025-03-30,1,Bahia,1,1,Corinthians,Empate,0,2,3,"Arena Fonte Nova, Salvador",BA,SP,4-2-3-1,4-3-3,R. Ceni,D. Junior
+2025-03-31,1,Bragantino,2,2,Ceara,Empate,0,4,3,"Nabizão, Bragança Paulista",SP,CE,4-2-3-1,4-2-3-1,V. Mancini,M. Mozart
+2025-04-05,2,Ceara,2,0,Gremio,Vitória do mandante,2,2,4,"Arena Castelão, Fortaleza",CE,RS,4-2-3-1,4-2-3-1,M. Mozart,L. Castro
+2025-04-05,2,Corinthians,3,0,Vasco,Vitória do mandante,3,3,4,"Neo Química Arena, São Paulo",SP,RJ,4-3-1-2,4-2-3-1,D. Junior,F. Diniz
+2025-04-05,2,Botafogo-RJ,2,0,Juventude,Vitória do mandante,2,2,4,"Estádio Nilton Santos, Rio de Janeiro",RJ,RS,4-1-4-1,4-4-2,Renato Manuel Alves Paiva,Fabio Henrique Matias
+2025-04-06,2,Fluminense,2,1,Bragantino,Vitória do mandante,1,3,4,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,L. Luis Zubeldia,V. Mancini
+2025-04-06,2,Atletico-MG,0,0,Sao Paulo,Empate,0,0,4,"Arena MRV, Belo Horizonte",MG,SP,4-3-3,4-2-3-1,J. Sampaoli,H. Crespo
+2025-04-06,2,Mirassol,1,1,Fortaleza,Empate,0,2,4,"Campos Maia, Mirassol",SP,CE,4-2-3-1,4-2-3-1,R. Guanaes,T. Carpini
+2025-04-06,2,Vitoria,1,2,Flamengo,Vitória do visitante,-1,3,4,"Barradão, Salvador",BA,RJ,4-2-3-1,4-2-3-1,J. Ventura,F. Luís
+2025-04-06,2,Sport,1,2,Palmeiras,Vitória do visitante,-1,3,4,"Adelmar da Costa Carvalho, Recife",PE,SP,4-5-1,3-4-2-1,C. de Lucena,A. Ferreira
+2025-04-06,2,Internacional,3,0,Cruzeiro,Vitória do mandante,3,3,4,"Estádio Beira-Rio, Porto Alegre",RS,MG,4-2-3-1,4-3-3,R. Díaz,T. Tite
+2025-04-06,2,Santos,2,2,Bahia,Empate,0,4,4,"Estádio Urbano Caldeira, Santos",SP,BA,4-2-3-1,4-3-3,J. Vojvoda,R. Ceni
+2025-04-12,3,Bragantino,1,0,Botafogo-RJ,Vitória do mandante,1,1,4,"Nabizão, Bragança Paulista",SP,RJ,4-3-3,4-3-3,Fernando Seabra,Renato Manuel Alves Paiva
+2025-04-12,3,Juventude,2,1,Ceara,Vitória do mandante,1,3,4,"Alfredo Jaconi, Caxias do Sul",RS,CE,4-4-2,4-3-3,M. Barbieri,M. Mozart
+2025-04-12,3,Palmeiras,2,0,Corinthians,Vitória do mandante,2,2,4,"Allianz Parque, São Paulo",SP,SP,3-4-2-1,4-3-1-2,A. Ferreira,D. Junior
+2025-04-12,3,Vasco,3,1,Sport,Vitória do mandante,2,4,4,"Estádio São Januário, Rio de Janeiro",RJ,PE,4-2-3-1,4-5-1,F. Diniz,C. de Lucena
+2025-04-13,3,Bahia,1,1,Mirassol,Empate,0,2,4,"Arena Fonte Nova, Salvador",BA,SP,4-3-3,4-2-3-1,R. Ceni,R. Guanaes
+2025-04-13,3,Gremio,0,2,Flamengo,Vitória do visitante,-2,2,4,"Arena do Grêmio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,L. Castro,F. Luís
+2025-04-13,3,Sao Paulo,1,1,Cruzeiro,Empate,0,2,4,"MorumBIS, São Paulo",SP,MG,4-2-3-1,4-2-3-1,H. Crespo,T. Tite
+2025-04-13,3,Fluminense,1,0,Santos,Vitória do mandante,1,1,4,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,L. Luis Zubeldia,J. Vojvoda
+2025-04-13,3,Fortaleza,0,0,Internacional,Empate,0,0,4,"Arena Castelão, Fortaleza",CE,RS,4-2-3-1,4-2-3-1,T. Carpini,R. Díaz
+2025-04-13,3,Atletico-MG,2,2,Vitoria,Empate,0,4,4,"Arena MRV, Belo Horizonte",MG,BA,3-4-3,4-3-3,J. Sampaoli,J. Ventura
+2025-04-15,4,Ceara,2,1,Vasco,Vitória do mandante,1,3,4,"Arena Castelão, Fortaleza",CE,RJ,4-3-3,4-3-3,M. Mozart,F. Diniz
+2025-04-16,4,Botafogo-RJ,2,2,Sao Paulo,Empate,0,4,4,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,3-4-2-1,Renato Manuel Alves Paiva,Luis Francisco ZubeldÃ­a
+2025-04-16,4,Sport,0,1,Bragantino,Vitória do visitante,-1,1,4,"Adelmar da Costa Carvalho, Recife",PE,SP,4-4-2,4-3-3,C. de Lucena,V. Mancini
+2025-04-16,4,Mirassol,4,1,Gremio,Vitória do mandante,3,5,4,"Campos Maia, Mirassol",SP,RS,4-2-3-1,4-2-3-1,R. Guanaes,L. Castro
+2025-04-16,4,Corinthians,0,2,Fluminense,Vitória do visitante,-2,2,4,"Neo Química Arena, São Paulo",SP,RJ,4-3-3,4-2-3-1,D. Junior,L. Luis Zubeldia
+2025-04-16,4,Internacional,0,1,Palmeiras,Vitória do visitante,-1,1,4,"Estádio Beira-Rio, Porto Alegre",RS,SP,4-2-3-1,3-4-2-1,R. Díaz,A. Ferreira
+2025-04-16,4,Flamengo,6,0,Juventude,Vitória do mandante,6,6,4,"Maracanã, Rio de Janeiro",RJ,RS,4-2-3-1,4-3-3,F. Luís,M. Barbieri
+2025-04-16,4,Vitoria,2,1,Fortaleza,Vitória do mandante,1,3,4,"Barradão, Salvador",BA,CE,4-2-3-1,3-4-1-2,J. Ventura,T. Carpini
+2025-04-16,4,Santos,2,0,Atletico-MG,Vitória do mandante,2,2,4,"Estádio Urbano Caldeira, Santos",SP,MG,4-2-3-1,4-2-3-1,J. Vojvoda,J. Sampaoli
+2025-04-17,4,Cruzeiro,3,0,Bahia,Vitória do mandante,3,3,4,"Mineirão, Belo Horizonte",MG,BA,4-2-3-1,4-3-3,T. Tite,R. Ceni
+2025-04-19,5,Corinthians,2,1,Sport,Vitória do mandante,1,3,4,"Neo Química Arena, São Paulo",SP,PE,4-3-3,4-5-1,D. Junior,C. de Lucena
+2025-04-19,5,Vasco,0,0,Flamengo,Empate,0,0,4,"Estádio São Januário, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,F. Diniz,F. Luís
+2025-04-19,5,Gremio,1,1,Internacional,Empate,0,2,4,"Arena do Grêmio, Porto Alegre",RS,RS,4-2-3-1,4-2-3-1,L. Castro,R. Díaz
+2025-04-20,5,Juventude,2,2,Mirassol,Empate,0,4,4,"Alfredo Jaconi, Caxias do Sul",RS,SP,4-3-3,4-3-3,M. Barbieri,R. Guanaes
+2025-04-20,5,Sao Paulo,2,1,Santos,Vitória do mandante,1,3,4,"MorumBIS, São Paulo",SP,SP,4-2-3-1,4-2-3-1,H. Crespo,J. Vojvoda
+2025-04-20,5,Atletico-MG,1,0,Botafogo-RJ,Vitória do mandante,1,1,4,"Arena MRV, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,Alexi Stival,Renato Manuel Alves Paiva
+2025-04-20,5,Fluminense,1,1,Vitoria,Empate,0,2,4,"Maracanã, Rio de Janeiro",RJ,BA,4-2-3-1,4-2-3-1,L. Luis Zubeldia,J. Ventura
+2025-04-20,5,Fortaleza,1,2,Palmeiras,Vitória do visitante,-1,3,4,"Arena Castelão, Fortaleza",CE,SP,3-4-2-1,3-4-2-1,T. Carpini,A. Ferreira
+2025-04-20,5,Bragantino,1,0,Cruzeiro,Vitória do mandante,1,1,4,"Nabizão, Bragança Paulista",SP,MG,4-2-3-1,4-2-3-1,V. Mancini,T. Tite
+2025-04-21,5,Bahia,1,0,Ceara,Vitória do mandante,1,1,4,"Arena Fonte Nova, Salvador",BA,CE,4-3-3,4-3-3,R. Ceni,M. Mozart
+2025-04-26,6,Internacional,3,1,Juventude,Vitória do mandante,2,4,4,"Estádio Beira-Rio, Porto Alegre",RS,RS,4-1-3-2,5-4-1,R. Díaz,M. Barbieri
+2025-04-26,6,Mirassol,2,2,Atletico-MG,Empate,0,4,4,"Campos Maia, Mirassol",SP,MG,4-3-3,4-4-2,R. Guanaes,J. Sampaoli
+2025-04-26,6,Ceara,1,1,Sao Paulo,Empate,0,2,4,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-2-3-1,M. Mozart,H. Crespo
+2025-04-26,6,Sport,0,0,Fortaleza,Empate,0,0,4,"Adelmar da Costa Carvalho, Recife",PE,CE,4-2-3-1,3-4-2-1,C. de Lucena,T. Carpini
+2025-04-26,6,Botafogo-RJ,2,0,Fluminense,Vitória do mandante,2,2,4,"Estádio Nilton Santos, Rio de Janeiro",RJ,RJ,4-4-2,4-2-3-1,Renato Manuel Alves Paiva,Renato Portaluppi
+2025-04-27,6,Flamengo,4,0,Corinthians,Vitória do mandante,4,4,4,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-3-3,F. Luís,D. Junior
+2025-04-27,6,Vitoria,1,1,Gremio,Empate,0,2,4,"Barradão, Salvador",BA,RS,4-2-3-1,4-2-3-1,J. Ventura,L. Castro
+2025-04-27,6,Cruzeiro,1,0,Vasco,Vitória do mandante,1,1,4,"Estádio Parque do Sabiá, Uberlândia",MG,RJ,4-2-3-1,4-2-3-1,T. Tite,F. Diniz
+2025-04-27,6,Palmeiras,0,1,Bahia,Vitória do visitante,-1,1,4,"Allianz Parque, São Paulo",SP,BA,3-4-2-1,4-2-3-1,A. Ferreira,R. Ceni
+2025-04-27,6,Santos,1,2,Bragantino,Vitória do visitante,-1,3,4,"Estádio Urbano Caldeira, Santos",SP,SP,4-2-3-1,4-2-3-1,J. Vojvoda,V. Mancini
+2025-05-02,7,Sao Paulo,0,0,Fortaleza,Empate,0,0,5,"MorumBIS, São Paulo",SP,CE,4-2-3-1,4-3-3,H. Crespo,T. Carpini
+2025-05-03,7,Ceara,1,0,Vitoria,Vitória do mandante,1,1,5,"Arena Castelão, Fortaleza",CE,BA,4-2-3-1,4-3-3,M. Mozart,J. Ventura
+2025-05-03,7,Fluminense,2,1,Sport,Vitória do mandante,1,3,5,"Maracanã, Rio de Janeiro",RJ,PE,4-2-3-1,4-2-3-1,L. Luis Zubeldia,C. de Lucena
+2025-05-03,7,Corinthians,4,2,Internacional,Vitória do mandante,2,6,5,"Neo Química Arena, São Paulo",SP,RS,4-3-1-2,4-2-3-1,D. Junior,R. Díaz
+2025-05-03,7,Bahia,1,0,Botafogo-RJ,Vitória do mandante,1,1,5,"Arena Fonte Nova, Salvador",BA,RJ,3-4-3,4-1-2-1-2,Rogerio Ceni,Renato Manuel Alves Paiva
+2025-05-04,7,Gremio,1,0,Santos,Vitória do mandante,1,1,5,"Arena do Grêmio, Porto Alegre",RS,SP,4-2-3-1,4-2-3-1,L. Castro,J. Vojvoda
+2025-05-04,7,Vasco,0,1,Palmeiras,Vitória do visitante,-1,1,5,"Mané Garrincha, Brasília",RJ,SP,4-3-3,3-4-2-1,F. Diniz,A. Ferreira
+2025-05-04,7,Cruzeiro,2,1,Flamengo,Vitória do mandante,1,3,5,"Mineirão, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,T. Tite,F. Luís
+2025-05-05,7,Bragantino,1,0,Mirassol,Vitória do mandante,1,1,5,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,SP,4-2-3-1,4-3-3,V. Mancini,R. Guanaes
+2025-05-05,7,Juventude,0,1,Atletico-MG,Vitória do visitante,-1,1,5,"Alfredo Jaconi, Caxias do Sul",RS,MG,4-2-3-1,4-4-2,M. Barbieri,J. Sampaoli
+2025-05-10,8,Fortaleza,5,0,Juventude,Vitória do mandante,5,5,5,"Estádio Presidente Vargas, Fortaleza",CE,RS,4-3-3,4-2-3-1,T. Carpini,M. Barbieri
+2025-05-10,8,Vitoria,2,1,Vasco,Vitória do mandante,1,3,5,"Barradão, Salvador",BA,RJ,4-2-3-1,4-3-3,J. Ventura,F. Diniz
+2025-05-10,8,Gremio,1,1,Bragantino,Empate,0,2,5,"Arena do Grêmio, Porto Alegre",RS,SP,4-2-3-1,4-2-3-1,L. Castro,V. Mancini
+2025-05-10,8,Mirassol,2,1,Corinthians,Vitória do mandante,1,3,5,"Campos Maia, Mirassol",SP,SP,4-2-3-1,4-4-2,R. Guanaes,D. Junior
+2025-05-10,8,Flamengo,1,0,Bahia,Vitória do mandante,1,1,5,"Maracanã, Rio de Janeiro",RJ,BA,4-2-3-1,4-3-3,F. Luís,R. Ceni
+2025-05-11,8,Sport,0,4,Cruzeiro,Vitória do visitante,-4,4,5,"Adelmar da Costa Carvalho, Recife",PE,MG,4-2-3-1,4-2-3-1,C. de Lucena,T. Tite
+2025-05-11,8,Palmeiras,1,0,Sao Paulo,Vitória do mandante,1,1,5,"Arena Barueri, Barueri",SP,SP,3-4-2-1,4-2-3-1,A. Ferreira,H. Crespo
+2025-05-11,8,Atletico-MG,3,2,Fluminense,Vitória do mandante,1,5,5,"Arena MRV, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,J. Sampaoli,L. Luis Zubeldia
+2025-05-11,8,Botafogo-RJ,4,0,Internacional,Vitória do mandante,4,4,5,"Estádio Nilton Santos, Rio de Janeiro",RJ,RS,4-4-2,4-2-3-1,Renato Manuel Alves Paiva,Roger Machado Marques
+2025-05-12,8,Santos,0,0,Ceara,Empate,0,0,5,"Allianz Parque, São Paulo",SP,CE,4-2-3-1,4-2-3-1,J. Vojvoda,M. Mozart
+2025-05-17,9,Ceara,2,0,Sport,Vitória do mandante,2,2,5,"Arena Castelão, Fortaleza",CE,PE,4-2-3-1,4-2-3-1,M. Mozart,C. de Lucena
+2025-05-17,9,Vasco,3,0,Fortaleza,Vitória do mandante,3,3,5,"Estádio São Januário, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,F. Diniz,T. Carpini
+2025-05-17,9,Sao Paulo,2,1,Gremio,Vitória do mandante,1,3,5,"MorumBIS, São Paulo",SP,RS,4-2-3-1,4-2-3-1,H. Crespo,L. Castro
+2025-05-18,9,Corinthians,1,0,Santos,Vitória do mandante,1,1,5,"Neo Química Arena, São Paulo",SP,SP,3-5-1-1,4-2-3-1,D. Junior,J. Vojvoda
+2025-05-18,9,Bahia,2,1,Vitoria,Vitória do mandante,1,3,5,"Arena Fonte Nova, Salvador",BA,BA,4-3-2-1,4-3-3,R. Ceni,J. Ventura
+2025-05-18,9,Juventude,1,1,Fluminense,Empate,0,2,5,"Alfredo Jaconi, Caxias do Sul",RS,RJ,4-2-3-1,4-2-3-1,M. Barbieri,L. Luis Zubeldia
+2025-05-18,9,Flamengo,0,0,Botafogo-RJ,Empate,0,0,5,"Maracanã, Rio de Janeiro",RJ,RJ,4-4-2,4-4-2,Filipe Luis Kasmirski,Renato Manuel Alves Paiva
+2025-05-18,9,Bragantino,1,2,Palmeiras,Vitória do visitante,-1,3,5,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,SP,4-2-3-1,3-4-2-1,V. Mancini,A. Ferreira
+2025-05-18,9,Internacional,1,1,Mirassol,Empate,0,2,5,"Estádio Beira-Rio, Porto Alegre",RS,SP,4-3-2-1,4-3-3,R. Díaz,R. Guanaes
+2025-05-18,9,Cruzeiro,0,0,Atletico-MG,Empate,0,0,5,"Mineirão, Belo Horizonte",MG,MG,4-2-3-1,4-2-3-1,T. Tite,J. Sampaoli
+2025-05-24,10,Fluminense,2,1,Vasco,Vitória do mandante,1,3,5,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,4-3-3,L. Luis Zubeldia,F. Diniz
+2025-05-24,10,Sao Paulo,0,2,Mirassol,Vitória do visitante,-2,2,5,"MorumBIS, São Paulo",SP,SP,4-2-3-1,4-2-3-1,H. Crespo,R. Guanaes
+2025-05-24,10,Atletico-MG,0,0,Corinthians,Empate,0,0,5,"Arena MRV, Belo Horizonte",MG,SP,4-2-3-1,4-1-4-1,J. Sampaoli,D. Junior
+2025-05-25,10,Gremio,1,0,Bahia,Vitória do mandante,1,1,5,"Arena do Grêmio, Porto Alegre",RS,BA,4-2-3-1,4-3-3,L. Castro,R. Ceni
+2025-05-25,10,Sport,1,1,Internacional,Empate,0,2,5,"Adelmar da Costa Carvalho, Recife",PE,RS,4-2-3-1,4-2-3-1,C. de Lucena,R. Díaz
+2025-05-25,10,Palmeiras,0,2,Flamengo,Vitória do visitante,-2,2,5,"Allianz Parque, São Paulo",SP,RJ,3-4-3,4-2-3-1,A. Ferreira,F. Luís
+2025-05-25,10,Vitoria,0,1,Santos,Vitória do visitante,-1,1,5,"Barradão, Salvador",BA,SP,4-2-3-1,4-2-3-1,J. Ventura,J. Vojvoda
+2025-05-25,10,Fortaleza,0,2,Cruzeiro,Vitória do visitante,-2,2,5,"Arena Castelão, Fortaleza",CE,MG,4-3-3,4-2-3-1,T. Carpini,T. Tite
+2025-05-26,10,Bragantino,1,0,Juventude,Vitória do mandante,1,1,5,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RS,4-2-3-1,4-4-2,V. Mancini,M. Barbieri
+2025-05-31,11,Bahia,2,1,Sao Paulo,Vitória do mandante,1,3,5,"Arena Fonte Nova, Salvador",BA,SP,4-3-3,4-5-1,R. Ceni,H. Crespo
+2025-05-31,11,Vasco,0,2,Bragantino,Vitória do visitante,-2,2,5,"Estádio São Januário, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Diniz,V. Mancini
+2025-06-01,11,Mirassol,1,0,Sport,Vitória do mandante,1,1,6,"Campos Maia, Mirassol",SP,PE,4-2-3-1,3-4-2-1,R. Guanaes,C. de Lucena
+2025-06-01,11,Juventude,0,2,Gremio,Vitória do visitante,-2,2,6,"Alfredo Jaconi, Caxias do Sul",RS,RS,4-2-3-1,4-2-3-1,M. Barbieri,L. Castro
+2025-06-01,11,Santos,0,1,Botafogo-RJ,Vitória do visitante,-1,1,6,"Estádio Urbano Caldeira, Santos",SP,RJ,4-2-3-1,4-2-3-1,Cleber Marcio Serpa Xavier,Renato Manuel Alves Paiva
+2025-06-01,11,Corinthians,0,0,Vitoria,Empate,0,0,6,"Neo Química Arena, São Paulo",SP,BA,4-3-3,3-4-2-1,D. Junior,J. Ventura
+2025-06-01,11,Flamengo,5,0,Fortaleza,Vitória do mandante,5,5,6,"Maracanã, Rio de Janeiro",RJ,CE,4-2-3-1,4-3-3,F. Luís,T. Carpini
+2025-06-01,11,Ceara,0,1,Atletico-MG,Vitória do visitante,-1,1,6,"Arena Castelão, Fortaleza",CE,MG,4-2-3-1,3-4-2-1,M. Mozart,J. Sampaoli
+2025-06-01,11,Cruzeiro,2,1,Palmeiras,Vitória do mandante,1,3,6,"Mineirão, Belo Horizonte",MG,SP,4-2-3-1,4-2-3-1,T. Tite,A. Ferreira
+2025-06-01,11,Internacional,0,2,Fluminense,Vitória do visitante,-2,2,6,"Estádio Beira-Rio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,R. Díaz,L. Luis Zubeldia
+2025-06-04,10,Botafogo-RJ,3,2,Ceara,Vitória do mandante,1,5,6,"Estádio Nilton Santos, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,Renato Manuel Alves Paiva,Leonardo Rodrigues Conde
+2025-06-12,12,Bragantino,0,3,Bahia,Vitória do visitante,-3,3,6,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,BA,4-2-3-1,4-3-3,V. Mancini,R. Ceni
+2025-06-12,12,Vitoria,0,0,Cruzeiro,Empate,0,0,6,"Barradão, Salvador",BA,MG,4-2-3-1,4-2-3-1,J. Ventura,T. Tite
+2025-06-12,12,Fortaleza,2,3,Santos,Vitória do visitante,-1,5,6,"Arena Castelão, Fortaleza",CE,SP,4-3-3,4-2-3-1,T. Carpini,J. Vojvoda
+2025-06-12,12,Gremio,1,1,Corinthians,Empate,0,2,6,"Arena do Grêmio, Porto Alegre",RS,SP,4-2-3-1,4-2-3-1,L. Castro,D. Junior
+2025-06-12,12,Atletico-MG,2,0,Internacional,Vitória do mandante,2,2,6,"Arena MRV, Belo Horizonte",MG,RS,4-3-3,4-3-3,J. Sampaoli,R. Díaz
+2025-06-12,12,Sao Paulo,1,3,Vasco,Vitória do visitante,-2,4,6,"MorumBIS, São Paulo",SP,RJ,4-2-3-1,4-2-3-1,H. Crespo,F. Diniz
+2025-07-12,13,Flamengo,2,0,Sao Paulo,Vitória do mandante,2,2,7,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,5-3-2,F. Luís,H. Crespo
+2025-07-12,13,Internacional,1,0,Vitoria,Vitória do mandante,1,1,7,"Estádio Beira-Rio, Porto Alegre",RS,BA,4-2-3-1,4-3-3,R. Díaz,J. Ventura
+2025-07-12,13,Vasco,0,2,Botafogo-RJ,Vitória do visitante,-2,2,7,"Mané Garrincha, Brasília",RJ,RJ,4-2-3-1,4-2-3-1,Fernando Diniz Silva,Claudio Roberto Da Silva
+2025-07-12,13,Bahia,2,1,Atletico-MG,Vitória do mandante,1,3,7,"Arena Fonte Nova, Salvador",BA,MG,4-3-3,4-2-2-2,R. Ceni,J. Sampaoli
+2025-07-13,13,Corinthians,1,2,Bragantino,Vitória do visitante,-1,3,7,"Neo Química Arena, São Paulo",SP,SP,4-1-2-1-2,4-2-3-1,D. Junior,V. Mancini
+2025-07-13,13,Cruzeiro,4,1,Gremio,Vitória do mandante,3,5,7,"Mineirão, Belo Horizonte",MG,RS,4-2-3-1,4-2-3-1,T. Tite,L. Castro
+2025-07-13,13,Fortaleza,0,1,Ceara,Vitória do visitante,-1,1,7,"Arena Castelão, Fortaleza",CE,CE,4-4-2,4-3-3,T. Carpini,M. Mozart
+2025-07-14,13,Juventude,2,0,Sport,Vitória do mandante,2,2,7,"Alfredo Jaconi, Caxias do Sul",RS,PE,4-2-3-1,4-1-4-1,M. Barbieri,C. de Lucena
+2025-07-16,14,Palmeiras,1,1,Mirassol,Empate,0,2,7,"Allianz Parque, São Paulo",SP,SP,4-2-3-1,4-2-3-1,A. Ferreira,R. Guanaes
+2025-07-16,14,Ceara,0,1,Corinthians,Vitória do visitante,-1,1,7,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-2-3-1,M. Mozart,D. Junior
+2025-07-16,14,Santos,1,0,Flamengo,Vitória do mandante,1,1,7,"Estádio Urbano Caldeira, Santos",SP,RJ,4-2-3-1,4-2-3-1,J. Vojvoda,F. Luís
+2025-07-16,14,Botafogo-RJ,0,0,Vitoria,Empate,0,0,7,"Estádio Nilton Santos, Rio de Janeiro",RJ,BA,4-2-3-1,4-3-3,Davide Ancelotti,Fabio Luiz Carille De Araujo
+2025-07-16,14,Bragantino,2,2,Sao Paulo,Empate,0,4,7,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,SP,4-2-3-1,5-3-2,V. Mancini,H. Crespo
+2025-07-17,14,Fluminense,0,2,Cruzeiro,Vitória do visitante,-2,2,7,"Maracanã, Rio de Janeiro",RJ,MG,4-2-3-1,4-2-3-1,L. Luis Zubeldia,T. Tite
+2025-07-19,15,Fortaleza,1,1,Bahia,Empate,0,2,7,"Arena Castelão, Fortaleza",CE,BA,4-3-3,4-2-3-1,T. Carpini,R. Ceni
+2025-07-19,15,Vasco,1,1,Gremio,Empate,0,2,7,"Estádio São Januário, Rio de Janeiro",RJ,RS,4-2-3-1,4-2-3-1,F. Diniz,L. Castro
+2025-07-19,15,Mirassol,3,0,Santos,Vitória do mandante,3,3,7,"Campos Maia, Mirassol",SP,SP,4-3-3,4-2-3-1,R. Guanaes,J. Vojvoda
+2025-07-19,15,Sao Paulo,2,0,Corinthians,Vitória do mandante,2,2,7,"MorumBIS, São Paulo",SP,SP,3-5-2,4-3-1-2,H. Crespo,D. Junior
+2025-07-20,15,Internacional,1,0,Ceara,Vitória do mandante,1,1,7,"Estádio Beira-Rio, Porto Alegre",RS,CE,4-2-3-1,4-2-3-1,R. Díaz,M. Mozart
+2025-07-20,15,Vitoria,1,0,Bragantino,Vitória do mandante,1,1,7,"Barradão, Salvador",BA,SP,4-2-3-1,4-2-3-1,J. Ventura,V. Mancini
+2025-07-20,15,Cruzeiro,4,0,Juventude,Vitória do mandante,4,4,7,"Mineirão, Belo Horizonte",MG,RS,4-2-3-1,4-2-3-1,T. Tite,M. Barbieri
+2025-07-20,15,Sport,0,1,Botafogo-RJ,Vitória do visitante,-1,1,7,"Adelmar da Costa Carvalho, Recife",PE,RJ,4-1-4-1,4-2-3-1,Daniel Pollo Barioni,Davide Ancelotti
+2025-07-20,15,Palmeiras,3,2,Atletico-MG,Vitória do mandante,1,5,7,"Allianz Parque, São Paulo",SP,MG,4-3-3,4-3-3,A. Ferreira,J. Sampaoli
+2025-07-20,15,Flamengo,1,0,Fluminense,Vitória do mandante,1,1,7,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,3-4-1-2,F. Luís,L. Luis Zubeldia
+2025-07-23,16,Fluminense,1,2,Palmeiras,Vitória do visitante,-1,3,7,"Maracanã, Rio de Janeiro",RJ,SP,4-3-3,4-2-3-1,L. Luis Zubeldia,A. Ferreira
+2025-07-23,16,Ceara,0,2,Mirassol,Vitória do visitante,-2,2,7,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-3-3,M. Mozart,R. Guanaes
+2025-07-23,16,Corinthians,0,0,Cruzeiro,Empate,0,0,7,"Neo Química Arena, São Paulo",SP,MG,4-1-2-1-2,4-2-3-1,D. Junior,T. Tite
+2025-07-23,16,Vitoria,2,2,Sport,Empate,0,4,7,"Barradão, Salvador",BA,PE,4-2-3-1,4-2-3-1,J. Ventura,C. de Lucena
+2025-07-23,16,Santos,1,2,Internacional,Vitória do visitante,-1,3,7,"Estádio Urbano Caldeira, Santos",SP,RS,4-4-2,4-2-3-1,J. Vojvoda,R. Díaz
+2025-07-23,16,Bragantino,1,2,Flamengo,Vitória do visitante,-1,3,7,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RJ,4-3-3,4-3-3,V. Mancini,F. Luís
+2025-07-24,16,Juventude,0,1,Sao Paulo,Vitória do visitante,-1,1,7,"Alfredo Jaconi, Caxias do Sul",RS,SP,4-3-3,3-5-2,M. Barbieri,H. Crespo
+2025-07-26,17,Sport,2,2,Santos,Empate,0,4,7,"Adelmar da Costa Carvalho, Recife",PE,SP,4-2-3-1,4-4-2,C. de Lucena,J. Vojvoda
+2025-07-26,17,Botafogo-RJ,1,1,Corinthians,Empate,0,2,7,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,4-3-1-2,Davide Ancelotti,Dorival Silvestre Junior
+2025-07-26,17,Mirassol,1,1,Vitoria,Empate,0,2,7,"Campos Maia, Mirassol",SP,BA,4-2-3-1,4-2-3-1,R. Guanaes,J. Ventura
+2025-07-26,17,Fortaleza,3,1,Bragantino,Vitória do mandante,2,4,7,"Arena Castelão, Fortaleza",CE,SP,4-3-3,4-2-3-1,T. Carpini,V. Mancini
+2025-07-26,17,Palmeiras,1,0,Gremio,Vitória do mandante,1,1,7,"Allianz Parque, São Paulo",SP,RS,4-2-3-1,4-2-3-1,A. Ferreira,L. Castro
+2025-07-27,17,Cruzeiro,1,2,Ceara,Vitória do visitante,-1,3,7,"Mineirão, Belo Horizonte",MG,CE,4-2-3-1,4-2-3-1,T. Tite,M. Mozart
+2025-07-27,17,Sao Paulo,3,1,Fluminense,Vitória do mandante,2,4,7,"MorumBIS, São Paulo",SP,RJ,3-5-2,3-5-2,H. Crespo,L. Luis Zubeldia
+2025-07-27,17,Internacional,1,1,Vasco,Empate,0,2,7,"Estádio Beira-Rio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,R. Díaz,F. Diniz
+2025-07-27,17,Bahia,3,0,Juventude,Vitória do mandante,3,3,7,"Arena Fonte Nova, Salvador",BA,RS,4-2-3-1,4-3-3,R. Ceni,M. Barbieri
+2025-07-27,17,Flamengo,1,0,Atletico-MG,Vitória do mandante,1,1,7,"Maracanã, Rio de Janeiro",RJ,MG,4-2-3-1,3-4-2-1,F. Luís,J. Sampaoli
+2025-07-29,14,Gremio,2,1,Fortaleza,Vitória do mandante,1,3,7,"Arena do Grêmio, Porto Alegre",RS,CE,4-2-3-1,4-3-3,L. Castro,T. Carpini
+2025-08-02,18,Sport,0,0,Bahia,Empate,0,0,8,"Adelmar da Costa Carvalho, Recife",PE,BA,4-2-3-1,4-2-3-1,C. de Lucena,R. Ceni
+2025-08-02,18,Mirassol,3,2,Vasco,Vitória do mandante,1,5,8,"Campos Maia, Mirassol",SP,RJ,4-3-3,4-2-3-1,R. Guanaes,F. Diniz
+2025-08-02,18,Fluminense,1,0,Gremio,Vitória do mandante,1,1,8,"Maracanã, Rio de Janeiro",RJ,RS,4-2-3-1,4-2-3-1,L. Luis Zubeldia,L. Castro
+2025-08-03,18,Corinthians,1,1,Fortaleza,Empate,0,2,8,"Neo Química Arena, São Paulo",SP,CE,4-2-3-1,4-2-3-1,D. Junior,T. Carpini
+2025-08-03,18,Botafogo-RJ,0,2,Cruzeiro,Vitória do visitante,-2,2,8,"Estádio Nilton Santos, Rio de Janeiro",RJ,MG,4-2-3-1,4-2-3-1,Davide Ancelotti,Jose Leonardo Nunes Alves Sousa Jardim
+2025-08-03,18,Ceara,1,1,Flamengo,Empate,0,2,8,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,M. Mozart,F. Luís
+2025-08-03,18,Atletico-MG,2,1,Bragantino,Vitória do mandante,1,3,8,"Arena MRV, Belo Horizonte",MG,SP,4-3-3,4-2-3-1,J. Sampaoli,V. Mancini
+2025-08-03,18,Vitoria,2,2,Palmeiras,Empate,0,4,8,"Barradão, Salvador",BA,SP,4-3-3,4-2-3-1,J. Ventura,A. Ferreira
+2025-08-03,18,Internacional,1,2,Sao Paulo,Vitória do visitante,-1,3,8,"Estádio Beira-Rio, Porto Alegre",RS,SP,3-4-1-2,3-5-2,R. Díaz,H. Crespo
+2025-08-04,18,Santos,3,1,Juventude,Vitória do mandante,2,4,8,"Estádio Urbano Caldeira, Santos",SP,RS,4-2-3-1,4-3-3,J. Vojvoda,M. Barbieri
+2025-08-09,19,Bragantino,1,3,Internacional,Vitória do visitante,-2,4,8,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RS,4-2-3-1,4-3-3,V. Mancini,R. Díaz
+2025-08-09,19,Flamengo,2,1,Mirassol,Vitória do mandante,1,3,8,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Luís,R. Guanaes
+2025-08-09,19,Sao Paulo,2,0,Vitoria,Vitória do mandante,2,2,8,"MorumBIS, São Paulo",SP,BA,3-5-2,4-2-3-1,H. Crespo,J. Ventura
+2025-08-09,19,Fortaleza,0,5,Botafogo-RJ,Vitória do visitante,-5,5,8,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,Renato Manuel Alves Paiva,Davide Ancelotti
+2025-08-09,19,Bahia,3,3,Fluminense,Empate,0,6,8,"Arena Fonte Nova, Salvador",BA,RJ,4-3-3,4-2-3-1,R. Ceni,L. Luis Zubeldia
+2025-08-10,19,Palmeiras,2,1,Ceara,Vitória do mandante,1,3,8,"Allianz Parque, São Paulo",SP,CE,4-2-3-1,4-2-3-1,A. Ferreira,M. Mozart
+2025-08-10,19,Vasco,1,1,Atletico-MG,Empate,0,2,8,"Estádio São Januário, Rio de Janeiro",RJ,MG,4-2-3-1,4-2-3-1,F. Diniz,J. Sampaoli
+2025-08-10,19,Cruzeiro,1,2,Santos,Vitória do visitante,-1,3,8,"Mineirão, Belo Horizonte",MG,SP,4-2-3-1,4-2-3-1,T. Tite,J. Vojvoda
+2025-08-10,19,Gremio,0,1,Sport,Vitória do visitante,-1,1,8,"Arena do Grêmio, Porto Alegre",RS,PE,4-2-3-1,4-3-3,L. Castro,C. de Lucena
+2025-08-11,19,Juventude,2,1,Corinthians,Vitória do mandante,1,3,8,"Alfredo Jaconi, Caxias do Sul",RS,SP,4-2-3-1,4-3-1-2,M. Barbieri,D. Junior
+2025-08-16,20,Fluminense,2,1,Fortaleza,Vitória do mandante,1,3,8,"Maracanã, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,L. Luis Zubeldia,T. Carpini
+2025-08-16,20,Ceara,1,0,Bragantino,Vitória do mandante,1,1,8,"Arena Castelão, Fortaleza",CE,SP,4-3-3,4-2-3-1,M. Mozart,V. Mancini
+2025-08-16,20,Sport,2,2,Sao Paulo,Empate,0,4,8,"Adelmar da Costa Carvalho, Recife",PE,SP,4-2-3-1,4-2-3-1,C. de Lucena,H. Crespo
+2025-08-16,20,Vitoria,2,2,Juventude,Empate,0,4,8,"Barradão, Salvador",BA,RS,4-2-3-1,4-2-3-1,J. Ventura,M. Barbieri
+2025-08-16,20,Corinthians,1,2,Bahia,Vitória do visitante,-1,3,8,"Neo Química Arena, São Paulo",SP,BA,4-3-1-2,4-3-3,D. Junior,R. Ceni
+2025-08-17,20,Atletico-MG,1,3,Gremio,Vitória do visitante,-2,4,8,"Arena MRV, Belo Horizonte",MG,RS,4-2-3-1,4-3-3,J. Sampaoli,L. Castro
+2025-08-17,20,Santos,0,6,Vasco,Vitória do visitante,-6,6,8,"Estádio Urbano Caldeira, Santos",SP,RJ,4-2-3-1,4-2-3-1,J. Vojvoda,F. Diniz
+2025-08-17,20,Internacional,1,3,Flamengo,Vitória do visitante,-2,4,8,"Estádio Beira-Rio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,R. Díaz,F. Luís
+2025-08-17,20,Botafogo-RJ,0,1,Palmeiras,Vitória do visitante,-1,1,8,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,Davide Ancelotti,Abel Fernando Moreira Ferreira
+2025-08-18,20,Mirassol,1,1,Cruzeiro,Empate,0,2,8,"Campos Maia, Mirassol",SP,MG,4-2-3-1,4-2-3-1,R. Guanaes,T. Tite
+2025-08-20,14,Juventude,2,0,Vasco,Vitória do mandante,2,2,8,"Alfredo Jaconi, Caxias do Sul",RS,RJ,4-2-3-1,4-2-3-1,M. Barbieri,F. Diniz
+2025-08-23,21,Bragantino,4,2,Fluminense,Vitória do mandante,2,6,8,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RJ,4-2-3-1,4-2-3-1,V. Mancini,L. Luis Zubeldia
+2025-08-23,21,Cruzeiro,2,1,Internacional,Vitória do mandante,1,3,8,"Mineirão, Belo Horizonte",MG,RS,4-2-3-1,4-2-3-1,T. Tite,R. Díaz
+2025-08-23,21,Gremio,0,0,Ceara,Empate,0,0,8,"Arena do Grêmio, Porto Alegre",RS,CE,4-3-3,4-2-3-1,L. Castro,M. Mozart
+2025-08-24,21,Bahia,2,0,Santos,Vitória do mandante,2,2,8,"Arena Fonte Nova, Salvador",BA,SP,4-2-3-1,4-3-3,R. Ceni,J. Vojvoda
+2025-08-24,21,Vasco,2,3,Corinthians,Vitória do visitante,-1,5,8,"Estádio São Januário, Rio de Janeiro",RJ,SP,4-2-3-1,4-1-3-2,F. Diniz,D. Junior
+2025-08-24,21,Juventude,1,3,Botafogo-RJ,Vitória do visitante,-2,4,8,"Alfredo Jaconi, Caxias do Sul",RS,RJ,4-4-2,4-2-3-1,Thiago Carpini Barbosa,Davide Ancelotti
+2025-08-24,21,Fortaleza,0,1,Mirassol,Vitória do visitante,-1,1,8,"Arena Castelão, Fortaleza",CE,SP,4-4-2,4-3-3,T. Carpini,R. Guanaes
+2025-08-24,21,Sao Paulo,2,0,Atletico-MG,Vitória do mandante,2,2,8,"MorumBIS, São Paulo",SP,MG,3-5-2,4-3-2-1,H. Crespo,J. Sampaoli
+2025-08-25,21,Palmeiras,3,0,Sport,Vitória do mandante,3,3,8,"Allianz Parque, São Paulo",SP,PE,4-2-3-1,4-2-3-1,A. Ferreira,C. de Lucena
+2025-08-25,21,Flamengo,8,0,Vitoria,Vitória do mandante,8,8,8,"Maracanã, Rio de Janeiro",RJ,BA,4-2-3-1,4-2-3-1,F. Luís,J. Ventura
+2025-08-30,22,Ceara,0,1,Juventude,Vitória do visitante,-1,1,8,"Arena Castelão, Fortaleza",CE,RS,4-2-3-1,4-2-3-1,M. Mozart,M. Barbieri
+2025-08-30,22,Botafogo-RJ,4,1,Bragantino,Vitória do mandante,3,5,8,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,Davide Ancelotti,Fernando Seabra
+2025-08-30,22,Cruzeiro,1,0,Sao Paulo,Vitória do mandante,1,1,8,"Mineirão, Belo Horizonte",MG,SP,4-2-2-2,3-5-2,T. Tite,H. Crespo
+2025-08-31,22,Flamengo,1,1,Gremio,Empate,0,2,8,"Maracanã, Rio de Janeiro",RJ,RS,4-2-3-1,4-2-3-1,F. Luís,L. Castro
+2025-08-31,22,Santos,0,0,Fluminense,Empate,0,0,8,"Estádio Urbano Caldeira, Santos",SP,RJ,4-2-3-1,4-2-3-1,J. Vojvoda,L. Luis Zubeldia
+2025-08-31,22,Corinthians,1,1,Palmeiras,Empate,0,2,8,"Neo Química Arena, São Paulo",SP,SP,3-4-1-2,4-4-2,D. Junior,A. Ferreira
+2025-08-31,22,Mirassol,5,1,Bahia,Vitória do mandante,4,6,8,"Campos Maia, Mirassol",SP,BA,4-3-3,4-2-3-1,R. Guanaes,R. Ceni
+2025-08-31,22,Vitoria,1,0,Atletico-MG,Vitória do mandante,1,1,8,"Barradão, Salvador",BA,MG,4-3-3,4-4-2,J. Ventura,J. Sampaoli
+2025-08-31,22,Sport,2,3,Vasco,Vitória do visitante,-1,5,8,"Adelmar da Costa Carvalho, Recife",PE,RJ,4-2-3-1,4-2-3-1,C. de Lucena,F. Diniz
+2025-08-31,22,Internacional,2,1,Fortaleza,Vitória do mandante,1,3,8,"Estádio Beira-Rio, Porto Alegre",RS,CE,4-4-1-1,4-2-3-1,R. Díaz,T. Carpini
+2025-09-13,23,Gremio,0,1,Mirassol,Vitória do visitante,-1,1,9,"Arena do Grêmio, Porto Alegre",RS,SP,4-3-1-2,4-3-3,L. Castro,R. Guanaes
+2025-09-13,23,Fortaleza,2,0,Vitoria,Vitória do mandante,2,2,9,"Arena Castelão, Fortaleza",CE,BA,4-4-2,4-2-3-1,T. Carpini,J. Ventura
+2025-09-13,23,Palmeiras,4,1,Internacional,Vitória do mandante,3,5,9,"Allianz Parque, São Paulo",SP,RS,4-2-3-1,4-2-3-1,A. Ferreira,R. Díaz
+2025-09-13,23,Fluminense,0,1,Corinthians,Vitória do visitante,-1,1,9,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,3-4-2-1,L. Luis Zubeldia,D. Junior
+2025-09-14,23,Bragantino,1,1,Sport,Empate,0,2,9,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,PE,4-3-3,4-1-2-1-2,V. Mancini,C. de Lucena
+2025-09-14,23,Atletico-MG,1,1,Santos,Empate,0,2,9,"Arena MRV, Belo Horizonte",MG,SP,4-3-3,4-2-3-1,J. Sampaoli,J. Vojvoda
+2025-09-14,23,Juventude,0,2,Flamengo,Vitória do visitante,-2,2,9,"Alfredo Jaconi, Caxias do Sul",RS,RJ,4-4-1-1,4-2-3-1,M. Barbieri,F. Luís
+2025-09-14,23,Sao Paulo,1,0,Botafogo-RJ,Vitória do mandante,1,1,9,"MorumBIS, São Paulo",SP,RJ,3-4-1-2,4-2-3-1,Hernan Jorge Crespo,Davide Ancelotti
+2025-09-14,23,Vasco,2,2,Ceara,Empate,0,4,9,"Estádio São Januário, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,F. Diniz,M. Mozart
+2025-09-15,23,Bahia,1,2,Cruzeiro,Vitória do visitante,-1,3,9,"Arena Fonte Nova, Salvador",BA,MG,4-2-3-1,4-2-3-1,R. Ceni,T. Tite
+2025-09-17,12,Botafogo-RJ,3,3,Mirassol,Empate,0,6,9,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,4-3-3,Davide Ancelotti,Rafael Silva Guanaes
+2025-09-20,24,Vitoria,0,1,Fluminense,Vitória do visitante,-1,1,9,"Barradão, Salvador",BA,RJ,4-2-3-1,4-2-3-1,J. Ventura,L. Luis Zubeldia
+2025-09-20,24,Ceara,1,1,Bahia,Empate,0,2,9,"Arena Castelão, Fortaleza",CE,BA,4-2-3-1,4-2-3-1,M. Mozart,R. Ceni
+2025-09-20,24,Botafogo-RJ,1,0,Atletico-MG,Vitória do mandante,1,1,9,"Estádio Nilton Santos, Rio de Janeiro",RJ,MG,4-2-3-1,5-4-1,Davide Ancelotti,Jorge Luis Sampaoli Moya
+2025-09-20,24,Palmeiras,4,1,Fortaleza,Vitória do mandante,3,5,9,"Allianz Parque, São Paulo",SP,CE,4-2-3-1,4-2-3-1,A. Ferreira,T. Carpini
+2025-09-21,24,Mirassol,2,0,Juventude,Vitória do mandante,2,2,9,"Campos Maia, Mirassol",SP,RS,4-3-3,4-4-2,R. Guanaes,M. Barbieri
+2025-09-21,24,Sport,1,0,Corinthians,Vitória do mandante,1,1,9,"Adelmar da Costa Carvalho, Recife",PE,SP,4-3-3,3-5-2,C. de Lucena,D. Junior
+2025-09-21,24,Flamengo,1,1,Vasco,Empate,0,2,9,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,F. Luís,F. Diniz
+2025-09-21,24,Internacional,2,3,Gremio,Vitória do visitante,-1,5,9,"Estádio Beira-Rio, Porto Alegre",RS,RS,4-2-3-1,4-3-1-2,R. Díaz,L. Castro
+2025-09-21,24,Santos,1,0,Sao Paulo,Vitória do mandante,1,1,9,"Estádio Urbano Caldeira, Santos",SP,SP,4-2-3-1,3-4-1-2,J. Vojvoda,H. Crespo
+2025-09-21,24,Cruzeiro,2,1,Bragantino,Vitória do mandante,1,3,9,"Mineirão, Belo Horizonte",MG,SP,4-2-3-1,4-4-1-1,T. Tite,V. Mancini
+2025-09-24,16,Gremio,1,1,Botafogo-RJ,Empate,0,2,9,"Arena do Grêmio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,James Francisco Freitas Iahnke,Davide Ancelotti
+2025-09-24,16,Vasco,3,1,Bahia,Vitória do mandante,2,4,9,"Estádio São Januário, Rio de Janeiro",RJ,BA,4-2-3-1,4-1-4-1,F. Diniz,R. Ceni
+2025-09-27,25,Fortaleza,1,0,Sport,Vitória do mandante,1,1,9,"Arena Castelão, Fortaleza",CE,PE,4-2-3-1,4-2-3-1,T. Carpini,C. de Lucena
+2025-09-27,25,Vasco,2,0,Cruzeiro,Vitória do mandante,2,2,9,"Estádio São Januário, Rio de Janeiro",RJ,MG,4-2-3-1,4-5-1,F. Diniz,T. Tite
+2025-09-27,25,Juventude,1,1,Internacional,Empate,0,2,9,"Alfredo Jaconi, Caxias do Sul",RS,RS,4-4-2,4-2-3-1,M. Barbieri,R. Díaz
+2025-09-27,25,Atletico-MG,1,0,Mirassol,Vitória do mandante,1,1,9,"Arena MRV, Belo Horizonte",MG,SP,3-4-1-2,4-3-3,J. Sampaoli,R. Guanaes
+2025-09-28,25,Gremio,3,1,Vitoria,Vitória do mandante,2,4,9,"Arena do Grêmio, Porto Alegre",RS,BA,4-2-3-1,3-4-2-1,L. Castro,J. Ventura
+2025-09-28,25,Fluminense,2,0,Botafogo-RJ,Vitória do mandante,2,2,9,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,Luis Francisco ZubeldÃ­a,Davide Ancelotti
+2025-09-28,25,Bahia,1,0,Palmeiras,Vitória do mandante,1,1,9,"Arena Fonte Nova, Salvador",BA,SP,4-3-2-1,4-4-2,R. Ceni,A. Ferreira
+2025-09-28,25,Bragantino,2,2,Santos,Empate,0,4,9,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,SP,4-2-3-1,4-2-3-1,V. Mancini,J. Vojvoda
+2025-09-28,25,Corinthians,1,2,Flamengo,Vitória do visitante,-1,3,9,"Neo Química Arena, São Paulo",SP,RJ,3-5-2,4-3-3,D. Junior,F. Luís
+2025-09-29,25,Sao Paulo,0,1,Ceara,Vitória do visitante,-1,1,9,"MorumBIS, São Paulo",SP,CE,3-4-1-2,4-2-3-1,H. Crespo,M. Mozart
+2025-09-30,26,Atletico-MG,0,0,Juventude,Empate,0,0,9,"Arena MRV, Belo Horizonte",MG,RS,3-4-1-2,4-4-2,J. Sampaoli,M. Barbieri
+2025-10-01,26,Palmeiras,3,0,Vasco,Vitória do mandante,3,3,10,"Allianz Parque, São Paulo",SP,RJ,4-2-3-1,4-2-3-1,A. Ferreira,F. Diniz
+2025-10-01,26,Mirassol,1,1,Bragantino,Empate,0,2,10,"Campos Maia, Mirassol",SP,SP,4-2-3-1,4-2-3-1,R. Guanaes,V. Mancini
+2025-10-01,26,Sport,2,2,Fluminense,Empate,0,4,10,"Adelmar da Costa Carvalho, Recife",PE,RJ,4-4-2,4-4-2,C. de Lucena,L. Luis Zubeldia
+2025-10-01,26,Internacional,1,1,Corinthians,Empate,0,2,10,"Estádio Beira-Rio, Porto Alegre",RS,SP,4-2-3-1,3-5-2,R. Díaz,D. Junior
+2025-10-01,26,Botafogo-RJ,2,1,Bahia,Vitória do mandante,1,3,10,"Estádio Nilton Santos, Rio de Janeiro",RJ,BA,4-2-3-1,4-3-2-1,Davide Ancelotti,Rogerio Ceni
+2025-10-01,26,Santos,1,1,Gremio,Empate,0,2,10,"Estádio Urbano Caldeira, Santos",SP,RS,4-2-3-1,4-2-3-1,J. Vojvoda,L. Castro
+2025-10-02,26,Vitoria,1,0,Ceara,Vitória do mandante,1,1,10,"Barradão, Salvador",BA,CE,3-4-2-1,4-2-3-1,J. Ventura,M. Mozart
+2025-10-02,26,Fortaleza,0,2,Sao Paulo,Vitória do visitante,-2,2,10,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-2-3-1,T. Carpini,H. Crespo
+2025-10-02,26,Flamengo,0,0,Cruzeiro,Empate,0,0,10,"Maracanã, Rio de Janeiro",RJ,MG,4-3-3,4-2-3-1,F. Luís,T. Tite
+2025-10-04,27,Internacional,2,0,Botafogo-RJ,Vitória do mandante,2,2,10,"Estádio Beira-Rio, Porto Alegre",RS,RJ,3-4-1-2,4-2-3-1,Ramon Angel Diaz,Davide Ancelotti
+2025-10-04,27,Fluminense,3,0,Atletico-MG,Vitória do mandante,3,3,10,"Maracanã, Rio de Janeiro",RJ,MG,4-2-3-1,3-4-2-1,L. Luis Zubeldia,J. Sampaoli
+2025-10-04,27,Bragantino,1,0,Gremio,Vitória do mandante,1,1,10,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RS,4-2-3-1,4-2-3-1,V. Mancini,L. Castro
+2025-10-04,27,Corinthians,3,0,Mirassol,Vitória do mandante,3,3,10,"Neo Química Arena, São Paulo",SP,SP,4-3-1-2,4-3-3,D. Junior,R. Guanaes
+2025-10-05,27,Vasco,4,3,Vitoria,Vitória do mandante,1,7,10,"Estádio São Januário, Rio de Janeiro",RJ,BA,4-3-3,4-2-3-1,F. Diniz,J. Ventura
+2025-10-05,27,Sao Paulo,2,3,Palmeiras,Vitória do visitante,-1,5,10,"MorumBIS, São Paulo",SP,SP,3-5-2,4-4-2,H. Crespo,A. Ferreira
+2025-10-05,27,Juventude,1,2,Fortaleza,Vitória do visitante,-1,3,10,"Alfredo Jaconi, Caxias do Sul",RS,CE,4-4-2,4-2-3-1,M. Barbieri,T. Carpini
+2025-10-05,27,Bahia,1,0,Flamengo,Vitória do mandante,1,1,10,"Arena Fonte Nova, Salvador",BA,RJ,4-3-3,4-2-3-1,R. Ceni,F. Luís
+2025-10-05,27,Ceara,3,0,Santos,Vitória do mandante,3,3,10,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-2-3-1,M. Mozart,J. Vojvoda
+2025-10-05,27,Cruzeiro,1,1,Sport,Empate,0,2,10,"Mineirão, Belo Horizonte",MG,PE,4-2-3-1,4-2-3-1,T. Tite,C. de Lucena
+2025-10-08,13,Mirassol,2,1,Fluminense,Vitória do mandante,1,3,10,"Campos Maia, Mirassol",SP,RJ,4-1-2-1-2,4-2-3-1,R. Guanaes,L. Luis Zubeldia
+2025-10-08,14,Atletico-MG,3,1,Sport,Vitória do mandante,2,4,10,"Arena MRV, Belo Horizonte",MG,PE,4-4-2,4-2-3-1,J. Sampaoli,C. de Lucena
+2025-10-11,12,Palmeiras,4,1,Juventude,Vitória do mandante,3,5,10,"Allianz Parque, São Paulo",SP,RS,4-2-3-1,4-3-3,A. Ferreira,M. Barbieri
+2025-10-15,28,Palmeiras,5,1,Bragantino,Vitória do mandante,4,6,10,"Allianz Parque, São Paulo",SP,SP,3-4-2-1,4-2-3-1,A. Ferreira,V. Mancini
+2025-10-15,28,Botafogo-RJ,0,3,Flamengo,Vitória do visitante,-3,3,10,"Estádio Nilton Santos, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,Davide Ancelotti,Filipe Luis Kasmirski
+2025-10-15,28,Mirassol,3,1,Internacional,Vitória do mandante,2,4,10,"Campos Maia, Mirassol",SP,RS,4-2-3-1,3-4-2-1,R. Guanaes,R. Díaz
+2025-10-15,28,Sport,1,1,Ceara,Empate,0,2,10,"Adelmar da Costa Carvalho, Recife",PE,CE,4-2-3-1,4-2-3-1,C. de Lucena,M. Mozart
+2025-10-15,28,Fortaleza,0,2,Vasco,Vitória do visitante,-2,2,10,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,T. Carpini,F. Diniz
+2025-10-15,28,Santos,3,1,Corinthians,Vitória do mandante,2,4,10,"Estádio Urbano Caldeira, Santos",SP,SP,4-2-3-1,3-4-1-2,J. Vojvoda,D. Junior
+2025-10-15,28,Atletico-MG,1,1,Cruzeiro,Empate,0,2,10,"Arena MRV, Belo Horizonte",MG,MG,3-4-3,4-2-3-1,J. Sampaoli,T. Tite
+2025-10-16,28,Gremio,2,0,Sao Paulo,Vitória do mandante,2,2,10,"Arena do Grêmio, Porto Alegre",RS,SP,4-2-3-1,3-4-1-2,L. Castro,H. Crespo
+2025-10-16,28,Vitoria,2,1,Bahia,Vitória do mandante,1,3,10,"Barradão, Salvador",BA,BA,4-4-2,4-4-2,J. Ventura,R. Ceni
+2025-10-16,28,Fluminense,1,0,Juventude,Vitória do mandante,1,1,10,"Maracanã, Rio de Janeiro",RJ,RS,4-2-3-1,4-2-3-1,L. Luis Zubeldia,M. Barbieri
+2025-10-18,29,Corinthians,1,0,Atletico-MG,Vitória do mandante,1,1,10,"Neo Química Arena, São Paulo",SP,MG,3-4-1-2,3-4-2-1,D. Junior,J. Sampaoli
+2025-10-18,29,Cruzeiro,1,0,Fortaleza,Vitória do mandante,1,1,10,"Mineirão, Belo Horizonte",MG,CE,4-2-3-1,4-2-3-1,T. Tite,T. Carpini
+2025-10-19,29,Flamengo,3,2,Palmeiras,Vitória do mandante,1,5,10,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-1-3-2,F. Luís,A. Ferreira
+2025-10-19,29,Ceara,0,2,Botafogo-RJ,Vitória do visitante,-2,2,10,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,Leonardo Rodrigues Conde,Davide Ancelotti
+2025-10-19,29,Mirassol,3,0,Sao Paulo,Vitória do mandante,3,3,10,"Campos Maia, Mirassol",SP,SP,4-3-3,3-4-1-2,R. Guanaes,H. Crespo
+2025-10-19,29,Internacional,2,0,Sport,Vitória do mandante,2,2,10,"Estádio Beira-Rio, Porto Alegre",RS,PE,3-4-1-2,4-2-3-1,R. Díaz,C. de Lucena
+2025-10-19,29,Bahia,4,0,Gremio,Vitória do mandante,4,4,10,"Arena Fonte Nova, Salvador",BA,RS,4-3-3,4-2-3-1,R. Ceni,L. Castro
+2025-10-20,29,Juventude,1,0,Bragantino,Vitória do mandante,1,1,10,"Alfredo Jaconi, Caxias do Sul",RS,SP,4-4-2,4-2-3-1,M. Barbieri,V. Mancini
+2025-10-20,29,Vasco,2,0,Fluminense,Vitória do mandante,2,2,10,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,F. Diniz,L. Luis Zubeldia
+2025-10-20,29,Santos,0,1,Vitoria,Vitória do visitante,-1,1,10,"Estádio Urbano Caldeira, Santos",SP,BA,4-2-3-1,5-4-1,J. Vojvoda,J. Ventura
+2025-10-22,14,Bahia,1,0,Internacional,Vitória do mandante,1,1,10,"Arena Fonte Nova, Salvador",BA,RS,4-2-3-1,3-4-2-1,R. Ceni,R. Díaz
+2025-10-25,30,Atletico-MG,1,0,Ceara,Vitória do mandante,1,1,10,"Arena MRV, Belo Horizonte",MG,CE,3-4-2-1,4-2-3-1,J. Sampaoli,M. Mozart
+2025-10-25,30,Vitoria,0,1,Corinthians,Vitória do visitante,-1,1,10,"Barradão, Salvador",BA,SP,5-4-1,3-4-1-2,J. Ventura,D. Junior
+2025-10-25,30,Fluminense,1,0,Internacional,Vitória do mandante,1,1,10,"Maracanã, Rio de Janeiro",RJ,RS,4-2-3-1,4-3-1-2,L. Luis Zubeldia,R. Díaz
+2025-10-25,30,Sport,1,2,Mirassol,Vitória do visitante,-1,3,10,"Adelmar da Costa Carvalho, Recife",PE,SP,4-2-3-1,4-3-3,C. de Lucena,R. Guanaes
+2025-10-25,30,Fortaleza,1,0,Flamengo,Vitória do mandante,1,1,10,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,T. Carpini,F. Luís
+2025-10-25,30,Sao Paulo,2,0,Bahia,Vitória do mandante,2,2,10,"MorumBIS, São Paulo",SP,BA,3-4-1-2,4-2-3-1,H. Crespo,R. Ceni
+2025-10-26,30,Gremio,3,1,Juventude,Vitória do mandante,2,4,10,"Arena do Grêmio, Porto Alegre",RS,RS,4-2-3-1,4-4-1-1,L. Castro,M. Barbieri
+2025-10-26,30,Botafogo-RJ,2,2,Santos,Empate,0,4,10,"Estádio Nilton Santos, Rio de Janeiro",RJ,SP,4-2-3-1,3-5-2,Davide Ancelotti,Juan Pablo Vojvoda
+2025-10-26,30,Bragantino,0,3,Vasco,Vitória do visitante,-3,3,10,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,RJ,4-2-3-1,4-2-3-1,V. Mancini,F. Diniz
+2025-10-26,30,Palmeiras,0,0,Cruzeiro,Empate,0,0,10,"Allianz Parque, São Paulo",SP,MG,3-4-2-1,4-2-3-1,A. Ferreira,T. Tite
+2025-10-29,12,Fluminense,1,0,Ceara,Vitória do mandante,1,1,10,"Maracanã, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,L. Luis Zubeldia,M. Mozart
+2025-11-01,31,Santos,1,1,Fortaleza,Empate,0,2,11,"Estádio Urbano Caldeira, Santos",SP,CE,4-2-3-1,4-2-3-1,J. Vojvoda,T. Carpini
+2025-11-01,31,Cruzeiro,3,1,Vitoria,Vitória do mandante,2,4,11,"Mineirão, Belo Horizonte",MG,BA,4-2-3-1,5-4-1,T. Tite,J. Ventura
+2025-11-01,31,Mirassol,0,0,Botafogo-RJ,Empate,0,0,11,"Campos Maia, Mirassol",SP,RJ,4-3-3,4-2-3-1,Rafael Silva Guanaes,Davide Ancelotti
+2025-11-01,31,Flamengo,3,0,Sport,Vitória do mandante,3,3,11,"Maracanã, Rio de Janeiro",RJ,PE,4-2-3-1,4-3-3,F. Luís,C. de Lucena
+2025-11-02,31,Ceara,2,0,Fluminense,Vitória do mandante,2,2,11,"Arena Castelão, Fortaleza",CE,RJ,4-2-3-1,4-2-3-1,M. Mozart,L. Luis Zubeldia
+2025-11-02,31,Bahia,2,1,Bragantino,Vitória do mandante,1,3,11,"Arena Fonte Nova, Salvador",BA,SP,4-2-3-1,4-2-3-1,R. Ceni,V. Mancini
+2025-11-02,31,Corinthians,2,0,Gremio,Vitória do mandante,2,2,11,"Neo Química Arena, São Paulo",SP,RS,3-5-2,4-2-3-1,D. Junior,L. Castro
+2025-11-02,31,Internacional,0,0,Atletico-MG,Empate,0,0,11,"Estádio Beira-Rio, Porto Alegre",RS,MG,4-4-2,3-4-2-1,R. Díaz,J. Sampaoli
+2025-11-02,31,Juventude,0,2,Palmeiras,Vitória do visitante,-2,2,11,"Alfredo Jaconi, Caxias do Sul",RS,SP,4-4-1-1,4-2-3-1,M. Barbieri,A. Ferreira
+2025-11-02,31,Vasco,0,2,Sao Paulo,Vitória do visitante,-2,2,11,"Estádio São Januário, Rio de Janeiro",RJ,SP,4-2-3-1,3-4-1-2,F. Diniz,H. Crespo
+2025-11-05,32,Sport,0,2,Juventude,Vitória do visitante,-2,2,11,"Adelmar da Costa Carvalho, Recife",PE,RS,4-4-1-1,3-4-3,C. de Lucena,M. Barbieri
+2025-11-05,32,Vitoria,1,0,Internacional,Vitória do mandante,1,1,11,"Barradão, Salvador",BA,RS,4-2-3-1,3-4-2-1,J. Ventura,R. Díaz
+2025-11-05,32,Bragantino,2,1,Corinthians,Vitória do mandante,1,3,11,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,SP,4-2-3-1,3-4-1-2,V. Mancini,D. Junior
+2025-11-05,32,Botafogo-RJ,3,0,Vasco,Vitória do mandante,3,3,11,"Estádio Nilton Santos, Rio de Janeiro",RJ,RJ,4-4-2,4-2-3-1,Davide Ancelotti,Fernando Diniz Silva
+2025-11-05,32,Atletico-MG,3,0,Bahia,Vitória do mandante,3,3,11,"Arena MRV, Belo Horizonte",MG,BA,3-4-2-1,4-3-3,J. Sampaoli,R. Ceni
+2025-11-05,32,Gremio,0,1,Cruzeiro,Vitória do visitante,-1,1,11,"Arena do Grêmio, Porto Alegre",RS,MG,4-2-3-1,4-2-3-1,L. Castro,T. Tite
+2025-11-05,32,Sao Paulo,2,2,Flamengo,Empate,0,4,11,"Estádio Urbano Caldeira, Santos",SP,RJ,3-5-2,4-2-3-1,H. Crespo,F. Luís
+2025-11-06,32,Fluminense,1,0,Mirassol,Vitória do mandante,1,1,11,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,L. Luis Zubeldia,R. Guanaes
+2025-11-06,32,Ceara,1,1,Fortaleza,Empate,0,2,11,"Arena Castelão, Fortaleza",CE,CE,4-2-3-1,4-2-3-1,M. Mozart,T. Carpini
+2025-11-06,32,Palmeiras,2,0,Santos,Vitória do mandante,2,2,11,"Allianz Parque, São Paulo",SP,SP,4-4-2,4-2-3-1,A. Ferreira,J. Vojvoda
+2025-11-08,33,Sport,2,4,Atletico-MG,Vitória do visitante,-2,6,11,"Adelmar da Costa Carvalho, Recife",PE,MG,4-2-3-1,3-4-2-1,C. de Lucena,J. Sampaoli
+2025-11-08,33,Vasco,1,3,Juventude,Vitória do visitante,-2,4,11,"Estádio São Januário, Rio de Janeiro",RJ,RS,4-2-3-1,3-4-1-2,F. Diniz,M. Barbieri
+2025-11-08,33,Internacional,2,2,Bahia,Empate,0,4,11,"Estádio Beira-Rio, Porto Alegre",RS,BA,4-2-3-1,4-3-3,R. Díaz,R. Ceni
+2025-11-08,33,Sao Paulo,0,1,Bragantino,Vitória do visitante,-1,1,11,"Estádio Urbano Caldeira, Santos",SP,SP,3-5-2,4-2-3-1,H. Crespo,V. Mancini
+2025-11-09,33,Cruzeiro,0,0,Fluminense,Empate,0,0,11,"Mineirão, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,T. Tite,L. Luis Zubeldia
+2025-11-09,33,Corinthians,0,1,Ceara,Vitória do visitante,-1,1,11,"Neo Química Arena, São Paulo",SP,CE,3-4-1-2,4-2-3-1,D. Junior,M. Mozart
+2025-11-09,33,Vitoria,0,0,Botafogo-RJ,Empate,0,0,11,"Barradão, Salvador",BA,RJ,3-4-2-1,4-2-2-2,Jair Zaksauskas Ribeiro Ventura,Davide Ancelotti
+2025-11-09,33,Flamengo,3,2,Santos,Vitória do mandante,1,5,11,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Luís,J. Vojvoda
+2025-11-09,33,Mirassol,2,1,Palmeiras,Vitória do mandante,1,3,11,"Campos Maia, Mirassol",SP,SP,4-3-3,4-4-2,R. Guanaes,A. Ferreira
+2025-11-09,33,Fortaleza,2,2,Gremio,Empate,0,4,11,"Arena Castelão, Fortaleza",CE,RS,4-2-3-1,4-2-3-1,T. Carpini,L. Castro
+2025-11-12,16,Atletico-MG,3,3,Fortaleza,Empate,0,6,11,"Arena MRV, Belo Horizonte",MG,CE,3-4-2-1,4-2-3-1,J. Sampaoli,T. Carpini
+2025-11-15,12,Sport,1,5,Flamengo,Vitória do visitante,-4,6,11,"Adelmar da Costa Carvalho, Recife",PE,RJ,4-3-3,4-2-3-1,C. de Lucena,F. Luís
+2025-11-15,13,Santos,1,0,Palmeiras,Vitória do mandante,1,1,11,"Estádio Urbano Caldeira, Santos",SP,SP,4-3-3,3-4-2-1,J. Vojvoda,A. Ferreira
+2025-11-16,37,Bragantino,2,0,Atletico-MG,Vitória do mandante,2,2,11,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,MG,4-2-3-1,3-4-2-1,V. Mancini,J. Sampaoli
+2025-11-18,34,Botafogo-RJ,3,2,Sport,Vitória do mandante,1,5,11,"Estádio Nilton Santos, Rio de Janeiro",RJ,PE,4-2-3-1,4-2-3-1,Davide Ancelotti,Cesar Ricardo De Lucena
+2025-11-19,34,Gremio,2,0,Vasco,Vitória do mandante,2,2,11,"Arena do Grêmio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,L. Castro,F. Diniz
+2025-11-19,34,Santos,1,1,Mirassol,Empate,0,2,11,"Estádio Urbano Caldeira, Santos",SP,SP,4-3-3,4-3-3,J. Vojvoda,R. Guanaes
+2025-11-19,34,Fluminense,2,1,Flamengo,Vitória do mandante,1,3,11,"Maracanã, Rio de Janeiro",RJ,RJ,4-2-3-1,4-2-3-1,L. Luis Zubeldia,F. Luís
+2025-11-19,37,Palmeiras,0,0,Vitoria,Empate,0,0,11,"Allianz Parque, São Paulo",SP,BA,4-2-3-1,3-4-2-1,A. Ferreira,J. Ventura
+2025-11-20,34,Juventude,3,3,Cruzeiro,Empate,0,6,11,"Alfredo Jaconi, Caxias do Sul",RS,MG,3-4-1-2,4-2-3-1,M. Barbieri,T. Tite
+2025-11-20,34,Bahia,2,3,Fortaleza,Vitória do visitante,-1,5,11,"Arena Fonte Nova, Salvador",BA,CE,4-3-3,4-2-3-1,R. Ceni,T. Carpini
+2025-11-20,34,Corinthians,3,1,Sao Paulo,Vitória do mandante,2,4,11,"Neo Química Arena, São Paulo",SP,SP,4-4-2,3-5-2,D. Junior,H. Crespo
+2025-11-20,34,Ceara,1,2,Internacional,Vitória do visitante,-1,3,11,"Arena Castelão, Fortaleza",CE,RS,4-2-3-1,4-2-3-1,M. Mozart,R. Díaz
+2025-11-22,35,Botafogo-RJ,3,2,Gremio,Vitória do mandante,1,5,11,"Estádio Nilton Santos, Rio de Janeiro",RJ,RS,4-2-3-1,4-2-3-1,Davide Ancelotti,Luiz Antonio Venker Menezes
+2025-11-22,35,Palmeiras,0,0,Fluminense,Empate,0,0,11,"Allianz Parque, São Paulo",SP,RJ,4-4-2,4-2-3-1,A. Ferreira,L. Luis Zubeldia
+2025-11-22,35,Flamengo,3,0,Bragantino,Vitória do mandante,3,3,11,"Maracanã, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Luís,V. Mancini
+2025-11-23,35,Sao Paulo,2,1,Juventude,Vitória do mandante,1,3,11,"Estádio Urbano Caldeira, Santos",SP,RS,3-4-1-2,3-4-2-1,H. Crespo,M. Barbieri
+2025-11-23,35,Bahia,1,0,Vasco,Vitória do mandante,1,1,11,"Arena Fonte Nova, Salvador",BA,RJ,4-2-3-1,4-2-3-1,R. Ceni,F. Diniz
+2025-11-23,35,Sport,1,3,Vitoria,Vitória do visitante,-2,4,11,"Adelmar da Costa Carvalho, Recife",PE,BA,4-3-3,3-4-3,C. de Lucena,J. Ventura
+2025-11-23,35,Cruzeiro,3,0,Corinthians,Vitória do mandante,3,3,11,"Mineirão, Belo Horizonte",MG,SP,4-2-3-1,5-3-2,T. Tite,D. Junior
+2025-11-24,35,Mirassol,3,0,Ceara,Vitória do mandante,3,3,11,"Campos Maia, Mirassol",SP,CE,4-3-3,4-2-3-1,R. Guanaes,M. Mozart
+2025-11-24,35,Internacional,1,1,Santos,Empate,0,2,11,"Estádio Beira-Rio, Porto Alegre",RS,SP,4-2-3-1,4-3-3,R. Díaz,J. Vojvoda
+2025-11-25,36,Atletico-MG,1,1,Flamengo,Empate,0,2,11,"Arena MRV, Belo Horizonte",MG,RJ,3-4-2-1,4-2-3-1,J. Sampaoli,F. Luís
+2025-11-25,36,Gremio,3,2,Palmeiras,Vitória do mandante,1,5,11,"Arena do Grêmio, Porto Alegre",RS,SP,4-2-3-1,4-2-3-1,L. Castro,A. Ferreira
+2025-11-26,36,Bragantino,0,1,Fortaleza,Vitória do visitante,-1,1,11,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,CE,4-2-3-1,4-4-2,V. Mancini,T. Carpini
+2025-11-27,36,Fluminense,6,0,Sao Paulo,Vitória do mandante,6,6,11,"Maracanã, Rio de Janeiro",RJ,SP,4-1-4-1,3-4-1-2,L. Luis Zubeldia,H. Crespo
+2025-11-28,36,Juventude,1,1,Bahia,Empate,0,2,11,"Alfredo Jaconi, Caxias do Sul",RS,BA,3-4-2-1,4-1-4-1,M. Barbieri,R. Ceni
+2025-11-28,36,Vasco,5,1,Internacional,Vitória do mandante,4,6,11,"Estádio São Januário, Rio de Janeiro",RJ,RS,4-2-3-1,4-3-1-2,F. Diniz,R. Díaz
+2025-11-28,36,Santos,3,0,Sport,Vitória do mandante,3,3,11,"Estádio Urbano Caldeira, Santos",SP,PE,4-2-3-1,4-3-3,J. Vojvoda,C. de Lucena
+2025-11-29,36,Vitoria,2,0,Mirassol,Vitória do mandante,2,2,11,"Barradão, Salvador",BA,SP,3-4-3,4-2-3-1,J. Ventura,R. Guanaes
+2025-11-29,36,Ceara,1,1,Cruzeiro,Empate,0,2,11,"Arena Castelão, Fortaleza",CE,MG,4-2-3-1,4-2-3-1,M. Mozart,T. Tite
+2025-11-30,35,Fortaleza,1,0,Atletico-MG,Vitória do mandante,1,1,11,"Arena Castelão, Fortaleza",CE,MG,4-4-2,3-4-2-1,T. Carpini,J. Sampaoli
+2025-11-30,36,Corinthians,2,2,Botafogo-RJ,Empate,0,4,11,"Neo Química Arena, São Paulo",SP,RJ,4-1-2-1-2,4-2-3-1,Dorival Silvestre Junior,Davide Ancelotti
+2025-12-02,37,Vasco,0,2,Mirassol,Vitória do visitante,-2,2,12,"Estádio São Januário, Rio de Janeiro",RJ,SP,4-2-3-1,4-2-3-1,F. Diniz,R. Guanaes
+2025-12-02,37,Gremio,1,2,Fluminense,Vitória do visitante,-1,3,12,"Arena do Grêmio, Porto Alegre",RS,RJ,4-2-3-1,4-2-3-1,L. Castro,L. Luis Zubeldia
+2025-12-03,34,Bragantino,4,0,Vitoria,Vitória do mandante,4,4,12,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",SP,BA,4-2-3-1,3-4-2-1,V. Mancini,J. Ventura
+2025-12-03,34,Atletico-MG,0,3,Palmeiras,Vitória do visitante,-3,3,12,"Arena MRV, Belo Horizonte",MG,SP,3-4-2-1,4-2-3-1,J. Sampaoli,A. Ferreira
+2025-12-03,37,Fortaleza,2,1,Corinthians,Vitória do mandante,1,3,12,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-3-3,T. Carpini,D. Junior
+2025-12-03,37,Juventude,0,3,Santos,Vitória do visitante,-3,3,12,"Alfredo Jaconi, Caxias do Sul",RS,SP,3-4-2-1,4-2-3-1,M. Barbieri,J. Vojvoda
+2025-12-03,37,Sao Paulo,3,0,Internacional,Vitória do mandante,3,3,12,"Estádio Urbano Caldeira, Santos",SP,RS,3-4-1-2,4-3-1-2,H. Crespo,R. Díaz
+2025-12-03,37,Bahia,2,0,Sport,Vitória do mandante,2,2,12,"Arena Fonte Nova, Salvador",BA,PE,4-3-3,4-3-3,R. Ceni,C. de Lucena
+2025-12-03,37,Flamengo,1,0,Ceara,Vitória do mandante,1,1,12,"Maracanã, Rio de Janeiro",RJ,CE,4-2-3-1,4-2-3-1,F. Luís,M. Mozart
+2025-12-04,37,Cruzeiro,2,2,Botafogo-RJ,Empate,0,4,12,"Mineirão, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,Jose Leonardo Nunes Alves Sousa Jardim,Davide Ancelotti
+2025-12-06,38,Mirassol,3,3,Flamengo,Empate,0,6,12,"Campos Maia, Mirassol",SP,RJ,4-4-2,4-2-3-1,R. Guanaes,F. Luís
+2025-12-07,38,Vitoria,1,0,Sao Paulo,Vitória do mandante,1,1,12,"Barradão, Salvador",BA,SP,3-4-2-1,3-5-2,J. Ventura,H. Crespo
+2025-12-07,38,Fluminense,2,0,Bahia,Vitória do mandante,2,2,12,"Maracanã, Rio de Janeiro",RJ,BA,4-2-3-1,4-3-3,L. Luis Zubeldia,R. Ceni
+2025-12-07,38,Ceara,1,3,Palmeiras,Vitória do visitante,-2,4,12,"Arena Castelão, Fortaleza",CE,SP,4-2-3-1,4-4-2,M. Mozart,A. Ferreira
+2025-12-07,38,Corinthians,1,1,Juventude,Empate,0,2,12,"Neo Química Arena, São Paulo",SP,RS,3-4-3,4-2-3-1,D. Junior,M. Barbieri
+2025-12-07,38,Santos,3,0,Cruzeiro,Vitória do mandante,3,3,12,"Estádio Urbano Caldeira, Santos",SP,MG,4-2-3-1,4-2-3-1,J. Vojvoda,T. Tite
+2025-12-07,38,Sport,0,4,Gremio,Vitória do visitante,-4,4,12,"Adelmar da Costa Carvalho, Recife",PE,RS,5-4-1,4-2-3-1,C. de Lucena,L. Castro
+2025-12-07,38,Botafogo-RJ,4,2,Fortaleza,Vitória do mandante,2,6,12,"Estádio Nilton Santos, Rio de Janeiro",RJ,CE,4-2-3-1,4-4-2,Davide Ancelotti,Martin Palermo
+2025-12-07,38,Atletico-MG,5,0,Vasco,Vitória do mandante,5,5,12,"Arena MRV, Belo Horizonte",MG,RJ,4-2-3-1,4-2-3-1,J. Sampaoli,F. Diniz
+2025-12-07,38,Internacional,3,1,Bragantino,Vitória do mandante,2,4,12,"Estádio Beira-Rio, Porto Alegre",RS,SP,4-4-2,4-2-3-1,R. Díaz,V. Mancini
